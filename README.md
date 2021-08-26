@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Leonardo Falcoski
 - 👀 I’m interested in Software Development and Cybersecurity
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I’m currently learning HTML, CSS, JavaScript and PHP
 
 <!---
 Falcowoski/Falcowoski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
