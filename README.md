@@ -1,6 +1,9 @@
-- 👋 Hi, I’m Leonardo Falcoski
-- 👀 I’m interested in Software Development and Cybersecurity
-- 🌱 I’m currently learning HTML, CSS, JavaScript and PHP
+### About me
+
+- 🏢 Web Developer in Contato Seguro
+  - React.JS, PHP, MySQL and AWS
+- 🎓 Student of Systems Analysis and Development in Centro Universitário CESUCA
+- 🏠 Brazil
 
 <!---
 Falcowoski/Falcowoski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
