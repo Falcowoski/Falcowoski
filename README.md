@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leonardo Falcoski</h1>
-<h3 align="center">Front-end development specialist with React.js</h3>
+<h3 align="center">Front-end development specialist</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=falcowoski&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="falcowoski" /></a> </p>
 
