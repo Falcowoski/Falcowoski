@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://leonardofalcoski.hashnode.dev](https://leonardofalcoski.hashnode.dev)
 
-- ⚡ Fun fact **I play volleyball every week 🌙✨**
+- ⚡ Fun fact: **I play volleyball every week 🌙✨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
