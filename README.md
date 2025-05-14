@@ -40,12 +40,6 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=falcowoski&show_icons=true&locale=en&theme=dracula" alt="falcowoski" /></p>
-
-<br />
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=falcowoski&show_icons=true&locale=en&layout=compact&theme=dracula" alt="falcowoski" /></p>
-
 <!---
 Falcowoski/Falcowoski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
